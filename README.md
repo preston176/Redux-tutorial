@@ -1,2 +1,2 @@
-## REACT-redux tutorial
+## React-REDUX tutorial
 ![Alt text](image.png)
